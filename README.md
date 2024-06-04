@@ -1,7 +1,7 @@
 Bu proje, üniversite öğrencileri ve öğretim üyeleri arasında bilgi akışını kolaylaştırmak amacıyla geliştirilen bir akademik bilgi yönetim sistemidir.
  Projenin hedefi, kullanıcı dostu bir arayüz ve iyileştirilmiş veri entegrasyon süreçleri ile eğitimde dijital dönüşümü teşvik etmektir. Bu proje hala geliştirilmektedir ve en temel versiyon budur. basit bir frontend tasarımı ve backend tarafında kayıt açma giriş yapma yönlendirmeler ve sql işlemleri mevcuttur.
 
-Projenin MySQL tablo kodları.
+Projenin MySQL tablo komutları :
 
 
 USE university;
